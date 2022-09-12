@@ -1,0 +1,10 @@
+header {
+    color:#4b0082
+}
+
+body {
+    background-color:  #dcd0ff
+}
+table, th, td {
+    border:1px solid black;
+}
